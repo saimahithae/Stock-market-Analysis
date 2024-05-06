@@ -40,7 +40,7 @@ The stock market is inherently volatile. We employ various statistical and machi
 - Identifies optimal combinations of assets.
 - Efficient Frontier graphically represents risk-return trade-off.
 
-![Efficient Frontier](efficient-frontier-graph.png)
+![Efficient Frontier](Efficient_frontier.png)
 
 ## Conclusion
 Despite market randomness, techniques like Random Walk and HMM can forecast future prices. The Efficient Frontier helps visualize optimal portfolios.
